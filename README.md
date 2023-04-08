@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhaamitaa" target="blank"><img src="https://img.shields.io/twitter/follow/subhaamitaa?logo=twitter&style=for-the-badge" alt="subhaamitaa" /></a> </p>
 
-- 🔭 I’m currently working on **ATM simulation project**
+- 🔭 I’m currently working on **a project that explores Olympic data, and I'm excited to apply my skills in data manipulation and visualization to this rich dataset** 
 
 - 🌱 I’m currently learning **Advanced Python, SQL,PowerBI,and Machine Learning**
 
